@@ -1,5 +1,11 @@
-import logo from './logo.svg';
+// importing all dependencies/ file paths
+import React from 'react';
+import $ from 'jquery';
 import './App.css';
+import Header from './Components/Header';
+
+
+
 
 function App() {
   return (
