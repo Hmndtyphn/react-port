@@ -36,15 +36,15 @@ class Header extends Component {
 
             <div className="row banner">
 
-                {/* <div className="banner-text">
-                    <h1 className="responsive-headline">{name}</h1>
+                <div className="banner-text">
+                    {/* <h1 className="responsive-headline">{name}</h1>
                     <h3>{description}.</h3>
                     <hr />
                     <ul className="social">
                         <a href={project} target="_blank" className="button btn github-btn"><i className="fa fa-linkedin"></i>Linkedin</a>
                         <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
-                    </ul>
-                </div> */}
+                    </ul> */}
+                </div>
             </div>
             
             <p className="scrolldown">
